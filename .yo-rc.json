@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.dung.mini_market"
+    },
+    "jhipsterVersion": "5.4.1",
+    "applicationType": "monolith",
+    "baseName": "abc",
+    "packageName": "com.dung.mini_market",
+    "packageFolder": "com/dung/mini_market",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2FjZmNhMTAzZGE0NjE2NTc4ZjU1NDYwNjlkNzZkZjI5YzAxNDIyM2MxOWYzM2Q1YzZiYTJiOWVkZDQ5YTgwMWU5NGZiYzkxYTVkNzVkYzY4MjFjNWI1NzNjNGZiNTE0ODk1ZDY3ZGJkODkwZTg0ZWM1ZDhjNDUwY2JmMDljOTQ=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": false
+  }
+}
